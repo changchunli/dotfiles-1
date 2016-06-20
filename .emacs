@@ -23,3 +23,4 @@
 (setq tabbar-use-images nil)
 ;; SPACEMACS - loading init.el file from spacemacs.
 (load (expand-file-name "init.el" user-emacs-directory))
+
